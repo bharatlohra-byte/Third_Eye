@@ -1,3 +1,5 @@
+<img src="icon-512.png" alt="Third Eye" width="128" align="right" />
+
 # Third Eye
 
 A security watchdog for your codebase — a Kiro Power guided by the **AWS Well-Architected Framework Security Pillar**.
